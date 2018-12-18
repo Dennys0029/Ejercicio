@@ -7,3 +7,4 @@ C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.csproj.Genera
 C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
 C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.exe
 C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.pdb
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.Form1.resources
