@@ -1,0 +1,9 @@
+C:\Users\Dennys Angulo\source\repos\github\github\bin\Debug\github.exe.config
+C:\Users\Dennys Angulo\source\repos\github\github\bin\Debug\github.exe
+C:\Users\Dennys Angulo\source\repos\github\github\bin\Debug\github.pdb
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.csprojAssemblyReference.cache
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.Properties.Resources.resources
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.csproj.GenerateResource.cache
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.exe
+C:\Users\Dennys Angulo\source\repos\github\github\obj\Debug\github.pdb
